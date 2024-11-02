@@ -1,0 +1,15 @@
+C:\xampp\htdocs\POO\POO\obj\Debug\net8.0\POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\POO\POO\obj\Debug\net8.0\POO.AssemblyInfoInputs.cache
+C:\xampp\htdocs\POO\POO\obj\Debug\net8.0\POO.AssemblyInfo.cs
+C:\xampp\htdocs\POO\POO\obj\Debug\net8.0\POO.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\POO\POO\bin\Debug\net8.0\POO.exe
+C:\xampp\htdocs\POO\POO\bin\Debug\net8.0\POO.deps.json
+C:\xampp\htdocs\POO\POO\bin\Debug\net8.0\POO.runtimeconfig.json
+C:\xampp\htdocs\POO\POO\bin\Debug\net8.0\POO.dll
+C:\xampp\htdocs\POO\POO\bin\Debug\net8.0\POO.pdb
+C:\xampp\htdocs\POO\POO\obj\Debug\net8.0\POO.dll
+C:\xampp\htdocs\POO\POO\obj\Debug\net8.0\refint\POO.dll
+C:\xampp\htdocs\POO\POO\obj\Debug\net8.0\POO.pdb
+C:\xampp\htdocs\POO\POO\obj\Debug\net8.0\POO.genruntimeconfig.cache
+C:\xampp\htdocs\POO\POO\obj\Debug\net8.0\ref\POO.dll
+C:\xampp\htdocs\POO\POO\obj\Debug\net8.0\POO.sourcelink.json
